@@ -1,0 +1,23 @@
+img{
+margin: 150px;
+    animation-name: mohamed;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    box-sizing: border-box;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+
+@keyframes mohamed{
+
+0% {
+    transform: rotate(0deg);
+}
+100% {
+    transform: rotate(360deg);
+}
+
+
+}

@@ -1,0 +1,35 @@
+ body{
+
+font-size: 20px;
+
+
+}
+
+
+ .ali{
+ background-color: rgb(163, 9, 9);
+ color: rgb(94, 13, 13);
+ padding: 0;
+ width: 200px;
+
+ float: left;
+ transition-duration: 2s;
+}
+.ali:hover{
+   margin-left : 20px;
+
+}
+
+
+
+/* .mm{
+color: white;
+width: 20px; */
+/* } */
+/* #hh{
+   color: aquamarine;
+   background-color: aliceblue;
+}
+p{
+    color: blue;
+} */
