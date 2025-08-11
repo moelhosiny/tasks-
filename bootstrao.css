@@ -1,0 +1,16 @@
+.gradiantcolor {
+        background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
+}
+
+.colorg {
+     background: -webkit-linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);  -webkit-text-fill-color: transparent;
+}
+
+.parentpic {
+    position: relative;
+}
+.picout{
+position: absolute;
+ 
+height: 530px;
+}
