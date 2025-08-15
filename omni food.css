@@ -27,6 +27,18 @@
     border: 5px solid white;
     border-radius: 100%;
 }
+.container center{
+text-align: center;
+
+}
+small meals{
+display: block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #cf711f;
+  text-transform: uppercase;
+  margin-bottom: 1.6rem;
+  letter-spacing: 0.75px;}
 
 .logos img{
     height: 30px;
@@ -34,3 +46,4 @@
     opacity: 50%;
     margin-top: 10px;
 }
+
